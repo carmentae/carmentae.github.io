@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Carmentae Infrastructure Management</title>
+    <link>https://carmentae.github.io/categories/</link>
+    <description>Recent content in Categories on Carmentae Infrastructure Management</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Mar 2020 15:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://carmentae.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cim</title>
+      <link>https://carmentae.github.io/categories/cim/</link>
+      <pubDate>Sat, 28 Mar 2020 15:00:00 +0000</pubDate>
+      
+      <guid>https://carmentae.github.io/categories/cim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news</title>
+      <link>https://carmentae.github.io/categories/news/</link>
+      <pubDate>Sat, 28 Mar 2020 15:00:00 +0000</pubDate>
+      
+      <guid>https://carmentae.github.io/categories/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>infrastructure</title>
+      <link>https://carmentae.github.io/categories/infrastructure/</link>
+      <pubDate>Sat, 28 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://carmentae.github.io/categories/infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>management</title>
+      <link>https://carmentae.github.io/categories/management/</link>
+      <pubDate>Sat, 28 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://carmentae.github.io/categories/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>railway</title>
+      <link>https://carmentae.github.io/categories/railway/</link>
+      <pubDate>Sat, 28 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://carmentae.github.io/categories/railway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>water</title>
+      <link>https://carmentae.github.io/categories/water/</link>
+      <pubDate>Sat, 28 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://carmentae.github.io/categories/water/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://carmentae.github.io/categories/about/</link>
+      <pubDate>Fri, 27 Mar 2020 15:00:00 +0000</pubDate>
+      
+      <guid>https://carmentae.github.io/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mission</title>
+      <link>https://carmentae.github.io/categories/mission/</link>
+      <pubDate>Fri, 27 Mar 2020 15:00:00 +0000</pubDate>
+      
+      <guid>https://carmentae.github.io/categories/mission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>story</title>
+      <link>https://carmentae.github.io/categories/story/</link>
+      <pubDate>Sat, 21 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://carmentae.github.io/categories/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>carmentae</title>
+      <link>https://carmentae.github.io/categories/carmentae/</link>
+      <pubDate>Fri, 20 Mar 2020 13:00:00 +0000</pubDate>
+      
+      <guid>https://carmentae.github.io/categories/carmentae/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

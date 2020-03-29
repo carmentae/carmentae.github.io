@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meet our team on Carmentae Infrastructure Management</title>
+    <link>https://carmentae.github.io/team/</link>
+    <description>Recent content in Meet our team on Carmentae Infrastructure Management</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Mar 2020 14:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://carmentae.github.io/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dr. Clemens Kielhauser</title>
+      <link>https://carmentae.github.io/team/team1/</link>
+      <pubDate>Fri, 27 Mar 2020 15:00:00 +0000</pubDate>
+      
+      <guid>https://carmentae.github.io/team/team1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prof. Dr. Bryan T. Adey</title>
+      <link>https://carmentae.github.io/team/team2/</link>
+      <pubDate>Sat, 21 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://carmentae.github.io/team/team2/</guid>
+      <description>Prof. Adey’s research is focused on improving the effectiveness and efficiency of infrastructure management. This includes the definition and standardization of the infrastructure management process, from setting goals to determining optimal monitoring and intervention programs, and evaluating the performance of infrastructure management organisations. It also includes the automation of parts of the infrastructure management process, e.g. the determination of optimal intervention strategies for single infrastructure objects and the development of algorithms to generate network intervention plans that maximise net benefit.</description>
+    </item>
+    
+    <item>
+      <title>Prof. Dr. Jürgen Hackl</title>
+      <link>https://carmentae.github.io/team/team3/</link>
+      <pubDate>Fri, 20 Mar 2020 13:00:00 +0000</pubDate>
+      
+      <guid>https://carmentae.github.io/team/team3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dipl.-Ing. Sean Kerwin</title>
+      <link>https://carmentae.github.io/team/team4/</link>
+      <pubDate>Thu, 19 Mar 2020 13:00:00 +0000</pubDate>
+      
+      <guid>https://carmentae.github.io/team/team4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

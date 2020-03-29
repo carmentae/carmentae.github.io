@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Carmentae Infrastructure Management</title>
+    <link>https://carmentae.github.io/categories/about/</link>
+    <description>Recent content in about on Carmentae Infrastructure Management</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Mar 2020 15:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://carmentae.github.io/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What We Stand For</title>
+      <link>https://carmentae.github.io/about/about1/</link>
+      <pubDate>Fri, 27 Mar 2020 15:00:00 +0000</pubDate>
+      
+      <guid>https://carmentae.github.io/about/about1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our Story</title>
+      <link>https://carmentae.github.io/about/about2/</link>
+      <pubDate>Sat, 21 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://carmentae.github.io/about/about2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carmentae</title>
+      <link>https://carmentae.github.io/about/about3/</link>
+      <pubDate>Fri, 20 Mar 2020 13:00:00 +0000</pubDate>
+      
+      <guid>https://carmentae.github.io/about/about3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
