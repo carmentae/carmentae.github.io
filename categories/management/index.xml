@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>management on Carmentae Infrastructure Management</title>
-    <link>https://carmentae.github.io/categories/management/</link>
+    <link>https://www.carmentae.ch/categories/management/</link>
     <description>Recent content in management on Carmentae Infrastructure Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Mar 2020 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://carmentae.github.io/categories/management/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.carmentae.ch/categories/management/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Asset management for railway infrastructures</title>
-      <link>https://carmentae.github.io/projects/project2/</link>
+      <link>https://www.carmentae.ch/projects/project2/</link>
       <pubDate>Sat, 28 Mar 2020 12:00:00 +0000</pubDate>
       
-      <guid>https://carmentae.github.io/projects/project2/</guid>
+      <guid>https://www.carmentae.ch/projects/project2/</guid>
       <description>Project overview Infrastructure managers require indicators to obtain a view of 1) how their asset management process is working, and 2) how much work will be required in the future. These indicators provide infrastructure managers with information as to how they can improve, and ensure that they continue to provide the expected service increasingly efficiently and effectively.
 Carmentae&amp;rsquo;s deliverables  item item item  Year 2020 - ongoing
 Client Basler Verkehrs-Betriebe</description>
@@ -24,10 +24,10 @@ Client Basler Verkehrs-Betriebe</description>
     
     <item>
       <title>Asset management for water infrastructures</title>
-      <link>https://carmentae.github.io/projects/project1/</link>
+      <link>https://www.carmentae.ch/projects/project1/</link>
       <pubDate>Sat, 28 Mar 2020 12:00:00 +0000</pubDate>
       
-      <guid>https://carmentae.github.io/projects/project1/</guid>
+      <guid>https://www.carmentae.ch/projects/project1/</guid>
       <description>Project overview Carmentae&amp;rsquo;s deliverables  item item item  Year 2019 - ongoing
 Client Scottish Water</description>
     </item>

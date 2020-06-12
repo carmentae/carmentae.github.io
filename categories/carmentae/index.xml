@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>carmentae on Carmentae Infrastructure Management</title>
-    <link>https://carmentae.github.io/categories/carmentae/</link>
+    <link>https://www.carmentae.ch/categories/carmentae/</link>
     <description>Recent content in carmentae on Carmentae Infrastructure Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Mar 2020 13:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://carmentae.github.io/categories/carmentae/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.carmentae.ch/categories/carmentae/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Carmentae</title>
-      <link>https://carmentae.github.io/about/about3/</link>
+      <link>https://www.carmentae.ch/about/about3/</link>
       <pubDate>Fri, 20 Mar 2020 13:00:00 +0000</pubDate>
       
-      <guid>https://carmentae.github.io/about/about3/</guid>
+      <guid>https://www.carmentae.ch/about/about3/</guid>
       <description></description>
     </item>
     
