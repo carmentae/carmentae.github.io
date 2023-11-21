@@ -7,18 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Mar 2020 13:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.carmentae.ch/categories/carmentae/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://www.carmentae.ch/categories/carmentae/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Carmentae</title>
       <link>https://www.carmentae.ch/about/about3/</link>
       <pubDate>Fri, 20 Mar 2020 13:00:00 +0000</pubDate>
-      
       <guid>https://www.carmentae.ch/about/about3/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -7,47 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Mar 2020 15:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.carmentae.ch/categories/cim/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://www.carmentae.ch/categories/cim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New homepage online!</title>
       <link>https://www.carmentae.ch/news/2020-03-29-news/</link>
       <pubDate>Sat, 28 Mar 2020 15:00:00 +0000</pubDate>
-      
       <guid>https://www.carmentae.ch/news/2020-03-29-news/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Contact us</title>
-      <link>https://www.carmentae.ch/cim/contact/</link>
-      <pubDate>Sat, 28 Mar 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://www.carmentae.ch/cim/contact/</guid>
-      <description>Carmentae Infrastructure Management GmbH info@carmentae.ch
-Tobelstrasse 36
-8615 Wermatswil
-Switzerland</description>
-    </item>
-    
-    <item>
-      <title>Impressum</title>
-      <link>https://www.carmentae.ch/cim/impressum/</link>
-      <pubDate>Sat, 28 Mar 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://www.carmentae.ch/cim/impressum/</guid>
-      <description>Carmentae Infrastructure Management GmbH Tobelstrasse 36
-8615 Wermatswil
-Switzerland
-Email: info@carmentae.ch
-UID-Number: CHE-155.417.083
-Commercial register number: CH-020.4.058.610-8
-CEO: Clemens Kielhauser
-Executive board: Clemens Kielhauser, Jürgen Hackl, Bryan Tyrone Adey
-Copyright All contents on the Carmentae Infrastructure Management website are protected by copyright. The downloading and use of any contents on this website is permitted for private purposes provided that neither the copyright marks nor any other legally protected markings are removed and the documents remain unaltered.</description>
-    </item>
-    
   </channel>
 </rss>

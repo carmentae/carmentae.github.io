@@ -7,45 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Mar 2020 14:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.carmentae.ch/expertise/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://www.carmentae.ch/expertise/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Infrastructure management</title>
       <link>https://www.carmentae.ch/expertise/expertise1/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.carmentae.ch/expertise/expertise1/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Optimisation of work programs</title>
       <link>https://www.carmentae.ch/expertise/expertise1/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.carmentae.ch/expertise/expertise1/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Predictive modeling</title>
       <link>https://www.carmentae.ch/expertise/expertise1/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.carmentae.ch/expertise/expertise1/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Risk assessments</title>
       <link>https://www.carmentae.ch/expertise/expertise1/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.carmentae.ch/expertise/expertise1/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

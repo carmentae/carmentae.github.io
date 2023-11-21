@@ -1,0 +1,117 @@
+/* General background color */
+body {
+    background: #e5e5e5;
+}
+/* Header after scroll down */
+#header {
+    background-color: #333333;
+    box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
+}
+
+/* Coler of the body tile */
+#main {
+    background-color: #333333;
+}
+
+/* Overlay of the banner image */
+#banner:after {
+    background-color: #87c5a4;
+    opacity: 0.85;
+}
+
+/* Background color of the menu pop-up page */
+#menu {
+    background: rgba(136, 41, 67, 0.9);
+}
+
+
+body, input, select, textarea {
+    color: #333fff;
+}
+
+strong, b {
+    color: #67ffff;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    color: #f99fff;
+}
+
+/* lines after text */
+header.major > :first-child:after {
+    background-color: #f55fff;
+}
+
+/* Label of boxes e.g. NAME */
+label {
+    color: #fff19f;
+}
+
+/* Fill color of the icons */
+.icon.alt:before {
+    background-color: #f44fff;
+    color: #333333;
+}
+
+/* No idea of the use */
+ul.pagination li > .page.active {
+    background-color: #ffffff;
+    color: #333333;
+}
+
+ul.pagination li > .page.active:hover {
+    background-color: #51cc43;
+    color: #ffcc43 !important;
+}
+
+ul.pagination li > .page.active:active {
+    background-color: #43c134;
+}
+
+
+.button {
+    box-shadow: inset 0 0 0 2px #ff33ff;
+    color: #f55fff;
+}
+
+
+.button.special {
+    background-color: #f99ffa;
+    color: #33bba3;
+}
+
+
+.button.special:active {
+    background-color: #51cc43;
+    color: #333333 !important;
+}
+
+.button.special:active {
+    background-color: #43c134;
+}
+
+/* Blog strip 1 */
+.spotlights > section {
+    background-color: #aaa335;
+}
+
+.spotlights > section:nth-child(2n) {
+    background-color: #fff;
+}
+
+
+/* Text in the footer */
+#footer .copyright li {
+    border-left: solid 1px rgba(212, 212, 255, 0.91);
+    color: rgba(244, 244, 255, 0.92);
+}
+
+/* Menu logo (three bars) */
+#header nav a[href="#menu"]:before, #header nav a[href="#menu"]:after {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='32' viewBox='0 0 24 32' preserveAspectRatio='none'%3E%3Cstyle%3Eline %7B stroke-width: 2px%3B stroke: %23000000%3B %7D%3C/style%3E%3Cline x1='0' y1='11' x2='24' y2='11' /%3E%3Cline x1='0' y1='21' x2='24' y2='21' /%3E%3Cline x1='0' y1='16' x2='24' y2='16' /%3E%3C/svg%3E");
+}
+
+#menu .close:before {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='20px' height='20px' viewBox='0 0 20 20' zoomAndPan='disable'%3E%3Cstyle%3Eline %7B stroke: %23000000%3B stroke-width: 2%3B %7D%3C/style%3E%3Cline x1='0' y1='0' x2='20' y2='20' /%3E%3Cline x1='20' y1='0' x2='0' y2='20' /%3E%3C/svg%3E");
+}

@@ -1,209 +1,127 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.carmentae.ch/</loc>
-    <lastmod>2020-03-28T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-11-20T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.carmentae.ch/team/team3/</loc>
+    <lastmod>2023-11-20T13:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.carmentae.ch/categories/</loc>
     <lastmod>2020-03-28T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/categories/cim/</loc>
     <lastmod>2020-03-28T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/news/2020-03-29-news/</loc>
     <lastmod>2020-03-28T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/categories/news/</loc>
     <lastmod>2020-03-28T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/cim/</loc>
     <lastmod>2020-03-28T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/news/</loc>
     <lastmod>2020-03-28T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/team/</loc>
     <lastmod>2020-03-28T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/expertise/</loc>
     <lastmod>2020-03-28T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/projects/</loc>
     <lastmod>2020-03-28T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/about/</loc>
     <lastmod>2020-03-28T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/projects/project2/</loc>
     <lastmod>2020-03-28T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/projects/project1/</loc>
     <lastmod>2020-03-28T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/cim/contact/</loc>
     <lastmod>2020-03-28T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/cim/impressum/</loc>
     <lastmod>2020-03-28T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/categories/infrastructure/</loc>
     <lastmod>2020-03-28T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/categories/management/</loc>
     <lastmod>2020-03-28T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/categories/railway/</loc>
     <lastmod>2020-03-28T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/categories/water/</loc>
     <lastmod>2020-03-28T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/categories/about/</loc>
     <lastmod>2020-03-27T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/team/team1/</loc>
     <lastmod>2020-03-27T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/categories/mission/</loc>
     <lastmod>2020-03-27T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/about/about1/</loc>
     <lastmod>2020-03-27T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/about/about2/</loc>
     <lastmod>2020-03-21T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/team/team2/</loc>
     <lastmod>2020-03-21T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/categories/story/</loc>
     <lastmod>2020-03-21T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.carmentae.ch/about/about3/</loc>
-    <lastmod>2020-03-20T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/categories/carmentae/</loc>
     <lastmod>2020-03-20T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.carmentae.ch/team/team3/</loc>
+  </url><url>
+    <loc>https://www.carmentae.ch/about/about3/</loc>
     <lastmod>2020-03-20T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/expertise/expertise1/</loc>
     <lastmod>2020-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/expertise/expertise1/</loc>
     <lastmod>2020-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/expertise/expertise1/</loc>
     <lastmod>2020-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/expertise/expertise1/</loc>
     <lastmod>2020-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/team/team4/</loc>
     <lastmod>2020-03-19T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/blogs/aliquam/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/blogs/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/blogs/tempus/</loc>
     <lastmod>2017-10-31T22:26:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/blogs/magna/</loc>
     <lastmod>2017-10-31T22:26:09-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/blogs/about/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/blogs/ipsum/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.carmentae.ch/tags/</loc>
   </url>
-  
 </urlset>

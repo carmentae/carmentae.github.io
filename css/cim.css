@@ -1,0 +1,142 @@
+/* General background color */
+body {
+    background: #e5e5e5;
+}
+/* Header after scroll down */
+#header {
+    background-color: #e5e5e5;
+    box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
+}
+
+/* Coler of the body tile */
+#main {
+    background-color: #e5e5e5;
+}
+
+/* Overlay of the banner image */
+#banner:after {
+    /* background-color: #ec8d81; */
+    /* background-color: #e7b788; */
+    background-color: #87c5a4;
+    opacity: 0.85;
+}
+
+/* Background color of the menu pop-up page */
+/* CHANGE ALSO IN main.css */
+#menu {
+    background: rgba(205, 205, 205, 0.9);
+}
+
+
+body, input, select, textarea {
+    color: #000000;
+}
+
+strong, b {
+    color: #000000;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    color: #000000;
+}
+
+/* lines after text */
+header.major > :first-child:after {
+    background-color: #000000;
+}
+
+/* Label of boxes e.g. NAME */
+label {
+    color: #000000;
+}
+
+/* Color of the email form */
+textarea {
+    background: rgba(205, 205, 205, 0.91);
+}
+
+
+.select-wrapper:before {
+    color: rgba(205, 205, 205, 0.91);
+}
+
+/* Fill color of the icons */
+.icon.alt:before {
+    background-color: #000000;
+    color: #e5e5e5;
+}
+
+/* No idea of the use */
+ul.pagination li > .page.active {
+    background-color: #000000;
+    color: #e5e5e5;
+}
+
+ul.pagination li > .page.active:hover {
+    background-color: #51cc43;
+    color: #000000 !important;
+}
+
+ul.pagination li > .page.active:active {
+    background-color: #43c134;
+}
+
+
+.button {
+    box-shadow: inset 0 0 0 2px #000000;
+    color: #000000;
+}
+
+
+/* Change in main.css */
+.button.special {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+
+.button.special:active {
+    background-color: #51cc43;
+    color: #e5e5e5 !important;
+}
+
+.button.special:active {
+    background-color: #43c134;
+}
+
+/* Blog strip 1 */
+.spotlights > section {
+    background-color: #cdcdcd;
+}
+
+.spotlights > section:nth-child(2n) {
+    background-color: #f2f2f2;
+}
+
+
+/* Text in the footer */
+#footer .copyright li {
+    border-left: solid 1px rgba(128, 128, 128, 0.95);
+    color: rgba(128, 128, 128, 0.95);
+}
+
+/* Menu logo (three bars) */
+#header nav a[href="#menu"]:before, #header nav a[href="#menu"]:after {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='32' viewBox='0 0 24 32' preserveAspectRatio='none'%3E%3Cstyle%3Eline %7B stroke-width: 2px%3B stroke: %23000000%3B %7D%3C/style%3E%3Cline x1='0' y1='11' x2='24' y2='11' /%3E%3Cline x1='0' y1='21' x2='24' y2='21' /%3E%3Cline x1='0' y1='16' x2='24' y2='16' /%3E%3C/svg%3E");
+}
+
+#header nav a[href="#menu"]:after {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='32' viewBox='0 0 24 32' preserveAspectRatio='none'%3E%3Cstyle%3Eline %7B stroke-width: 2px%3B stroke: %2351cc43%3B %7D%3C/style%3E%3Cline x1='0' y1='11' x2='24' y2='11' /%3E%3Cline x1='0' y1='21' x2='24' y2='21' /%3E%3Cline x1='0' y1='16' x2='24' y2='16' /%3E%3C/svg%3E");
+}
+
+#menu .close:before {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='20px' height='20px' viewBox='0 0 20 20' zoomAndPan='disable'%3E%3Cstyle%3Eline %7B stroke: %23000000%3B stroke-width: 2%3B %7D%3C/style%3E%3Cline x1='0' y1='0' x2='20' y2='20' /%3E%3Cline x1='20' y1='0' x2='0' y2='20' /%3E%3C/svg%3E");
+}
+
+
+/* Special button */
+
+.button.next:before {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='36px' height='24px' viewBox='0 0 36 24' zoomAndPan='disable'%3E%3Cstyle%3Eline %7B stroke: %23000000%3B stroke-width: 2px%3B %7D%3C/style%3E%3Cline x1='0' y1='12' x2='34' y2='12' /%3E%3Cline x1='25' y1='4' x2='34' y2='12.5' /%3E%3Cline x1='25' y1='20' x2='34' y2='11.5' /%3E%3C/svg%3E");
+}
