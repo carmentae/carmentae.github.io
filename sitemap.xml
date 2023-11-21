@@ -3,9 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.carmentae.ch/</loc>
-    <lastmod>2023-11-20T13:00:00+00:00</lastmod>
+    <lastmod>2023-11-20T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.carmentae.ch/team/team1/</loc>
+    <lastmod>2023-11-20T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.carmentae.ch/team/team2/</loc>
+    <lastmod>2023-11-20T14:30:00+00:00</lastmod>
   </url><url>
     <loc>https://www.carmentae.ch/team/team3/</loc>
+    <lastmod>2023-11-20T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.carmentae.ch/team/team4/</loc>
     <lastmod>2023-11-20T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.carmentae.ch/categories/</loc>
@@ -65,9 +74,6 @@
     <loc>https://www.carmentae.ch/categories/about/</loc>
     <lastmod>2020-03-27T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.carmentae.ch/team/team1/</loc>
-    <lastmod>2020-03-27T15:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.carmentae.ch/categories/mission/</loc>
     <lastmod>2020-03-27T15:00:00+00:00</lastmod>
   </url><url>
@@ -75,9 +81,6 @@
     <lastmod>2020-03-27T15:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.carmentae.ch/about/about2/</loc>
-    <lastmod>2020-03-21T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.carmentae.ch/team/team2/</loc>
     <lastmod>2020-03-21T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.carmentae.ch/categories/story/</loc>
@@ -100,9 +103,6 @@
   </url><url>
     <loc>https://www.carmentae.ch/expertise/expertise1/</loc>
     <lastmod>2020-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.carmentae.ch/team/team4/</loc>
-    <lastmod>2020-03-19T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.carmentae.ch/blogs/aliquam/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
